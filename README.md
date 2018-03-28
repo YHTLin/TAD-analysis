@@ -12,3 +12,4 @@ Topologically associated domains (TADs) are contiguous segments of DNA that inte
 
 ## Usage
 Download and save files in the same directory. Load *CNV_Analysis2.py* into Python 2.7 for analysis.
++ May need to install *xlrd* package for working with Excel files. Go to command prompt and type *[python2.7 directory]\python.exe -m pip install xlrd*.
